@@ -1,0 +1,16 @@
+.h1 {
+    text-align: center;
+    font-family: IM Fell English SC, Courier, monospace, sans-serif;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    }
+.h2 {
+    color: Black;
+    }
+.a{
+        text-align: center;
+    }

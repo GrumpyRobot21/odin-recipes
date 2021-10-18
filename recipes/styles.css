@@ -1,0 +1,41 @@
+/* Odin recipes stylesheet */
+body, button{
+    background-color: tomato;
+    font-family: IM Fell English SC, 'Courier New', Courier, monospace;
+    }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    }
+
+h1 {
+    text-align: center;
+    }
+
+ul li{
+    padding: 5px 0px;
+    } 
+ol li{
+    padding: 5px 0px;
+    }
+
+a.home {
+    display: inline-block;
+    text-align: center;
+    padding: 10px 24px;
+    border: 1px solid oldlace;
+    border-width: 2px;
+    box-sizing: border-box;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    border-radius: 20px;
+    margin-left: 600px;
+    margin-right: auto;
+    }   
+a.home:hover{
+    background-color: blue;
+    }
