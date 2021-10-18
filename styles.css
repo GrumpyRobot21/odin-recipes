@@ -1,16 +1,23 @@
-.h1 {
+body{
+    background-color: tomato;
+}
+a{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-family: IM Fell English SC, Courier, monospace, sans-serif;
+}
+a:hover{
+    color: blue;
+}
+
+h1 {
     text-align: center;
     font-family: IM Fell English SC, Courier, monospace, sans-serif;
 }
-.img {
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 25%;
-    }
-.h2 {
-    color: Black;
-    }
-.a{
-        text-align: center;
     }
